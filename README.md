@@ -15,12 +15,8 @@
   <a href="https://api.whatsapp.com/send?phone=2348133141116&text=Hi%20there!%20Thanks%20for%20reaching%20out!%20I%20will%20be%20with%20you%20in%20a%20moment!">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-     
-  </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=assadountoflat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=stephnnaflat-square&color=blue" alt=""/>
   <div align="center">
 </div>
 
