@@ -78,7 +78,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stephnna&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stephnna&theme=hacker)](https://git.io/streak-stats)
 
 <div> <!-- Markdown -->
 
