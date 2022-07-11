@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @stephnna
+- 👋 Hi, I’m Ezea Stephen
 - 👀 I’m interested in website development
 - 🌱 I’m currently learning HTML5, CSS3, Javascript, React ...
-- 💞️ I’m looking to collaborate on open source projects like zero-to-mastery
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 Email me at stephennnabuike@gmail.com
 
 
@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/stephen-nnabuike-ezea-143b97170/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=233556255233&text=Hi%20there!%20Thanks%20for%20reaching%20out!%20I%20will%20be%20with%20you%20in%20a%20moment!">
+  <a href="https://api.whatsapp.com/send?phone=2348133141116&text=Hi%20there!%20Thanks%20for%20reaching%20out!%20I%20will%20be%20with%20you%20in%20a%20moment!">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="your-twitter-URL">
