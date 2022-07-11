@@ -63,25 +63,11 @@
 
 ---
 
-### :bulb: Prototypes :
- <div id="badges">
-    
-  <a href="#">
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
-  </a>
-  
-  </div>
-  
----
-
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stephnna&theme=hacker)](https://git.io/streak-stats)
 
 <div> <!-- Markdown -->
-  <h2 class"pt-2">Thanks for visiting my profile here is a joke for you</h2>
+  <h2 class"pt-2">Thanks for visiting my profile</h2>
 <!---
 stephnna/stephnna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
