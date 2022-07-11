@@ -33,7 +33,7 @@
 
 - :zap: In my free time, I solve problems on hackerrank, read tech articles and code python project
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-richadu-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/richmond-adu-kyere-911693236)<a href="mailto:stephennnabuike@gmail.com"> <img src="https://img.shields.io/badge/richadu-D14836?style=flat&for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-richadu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-nnabuike-ezea-143b97170/)<a href="mailto:stephennnabuike@gmail.com"> <img src="https://img.shields.io/badge/richadu-D14836?style=flat&for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 
 
 ---
