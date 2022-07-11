@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Ezea Stephen
 - 👀 I’m interested in website development
-- 🌱 I’m currently learning HTML5, CSS3, Javascript, React ...
 - 💞️ I’m looking to collaborate on open source projects
+- 👋 I'm currently on lookout for new opportunities
 - 📫 Email me at stephennnabuike@gmail.com
+
 
 
 <div id="header" align="center">
@@ -33,7 +34,7 @@
 
 - :zap: In my free time, I solve problems on hackerrank, read tech articles and code python project
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-richadu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-nnabuike-ezea-143b97170/)<a href="mailto:stephennnabuike@gmail.com"> <img src="https://img.shields.io/badge/richadu-D14836?style=flat&for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-stephnna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-nnabuike-ezea-143b97170/)<a href="mailto:stephennnabuike@gmail.com"> <img src="https://img.shields.io/badge/stephnna-D14836?style=flat&for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 
 
 ---
