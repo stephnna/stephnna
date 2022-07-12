@@ -57,7 +57,7 @@
 
 ---
 
-![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephnna&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stephnna&theme=hacker)](https://git.io/streak-stats)
 
 <div> <!-- Markdown -->
   <h2 class"pt-2">Thanks for visiting my profile</h2>
