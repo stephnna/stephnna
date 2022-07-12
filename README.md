@@ -57,9 +57,6 @@
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stephnna&theme=hacker&hide_border=true&background=0D1E0D&fire=35DD34&border=E72929&stroke=DD2727)](https://git.io/streak-stats)
-
 <div> <!-- Markdown -->
   <h2 class"pt-2">Thanks for visiting my profile</h2>
 <!---
