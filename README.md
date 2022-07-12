@@ -58,6 +58,7 @@
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stephnna&theme=hacker)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stephnna&theme=hacker)](https://git.io/streak-stats)
 
 <div> <!-- Markdown -->
   <h2 class"pt-2">Thanks for visiting my profile</h2>
