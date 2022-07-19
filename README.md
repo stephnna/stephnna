@@ -60,7 +60,7 @@
 ![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephnna&show_icons=true&theme=radical)
 
 <div> <!-- Markdown -->
-  <h2 class"pt-2">Thanks for visiting my profile</h2>
+  <h2 class"pt-2">Thank you for visiting my profile</h2>
 <!---
 stephnna/stephnna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
