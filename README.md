@@ -30,7 +30,7 @@
   I am an Electronic Engineer and Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - :telescope: I’m contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Artificial Intelligence.
+- :seedling: I am also Exploring Artificial Intelligence projects like Deep Learning Architectures.
 
 - :zap: In my free time, I solve problems on hackerrank, read tech articles and code python project
 
