@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ezea Stephen
 - 👀 I’m interested in website development
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I look forward to collaborating on open source projects
 - 👋 I'm currently on lookout for new opportunities
 - 📫 Email me at stephennnabuike@gmail.com
 
