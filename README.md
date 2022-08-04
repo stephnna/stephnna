@@ -61,7 +61,7 @@
 
 ---
 
-![Quote for yoy](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
+![Stephen's GitHub stats](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
 
 
 <div> <!-- Markdown -->
