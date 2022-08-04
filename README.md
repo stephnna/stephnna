@@ -58,6 +58,7 @@
 ---
 
 ![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephnna&show_icons=true&theme=radical)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
 
 <div> <!-- Markdown -->
   <h2 class"pt-2">Thank you for visiting my profile</h2>
